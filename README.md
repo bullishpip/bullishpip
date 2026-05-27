@@ -8,7 +8,7 @@ I'm obsessed with improving processes that deliver **measurable value** greater 
 ## 🚀 Current Focus
 - 🤖 **Agentic Development** – Building intelligent solutions that provide value
 - 🌱 **Continuous Learning** – Always evolving, always growing as both a developer and human
-- 💞️ **Meaningful Collaboration** – Seeking projects with shared value and aligned vision
+- 👥 **Meaningful Collaboration** – Seeking projects with shared value and aligned vision
 
 ## 💻 Experience
 **20+ years of coding** (since 2000) – yeah, I've seen some things 😅  
